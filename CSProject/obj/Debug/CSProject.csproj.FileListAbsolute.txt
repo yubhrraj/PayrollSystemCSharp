@@ -1,0 +1,7 @@
+E:\Projects\C Sharp\CSProject\CSProject\bin\Debug\CSProject.exe.config
+E:\Projects\C Sharp\CSProject\CSProject\bin\Debug\CSProject.exe
+E:\Projects\C Sharp\CSProject\CSProject\bin\Debug\CSProject.pdb
+E:\Projects\C Sharp\CSProject\CSProject\obj\Debug\CSProject.csprojAssemblyReference.cache
+E:\Projects\C Sharp\CSProject\CSProject\obj\Debug\CSProject.csproj.CoreCompileInputs.cache
+E:\Projects\C Sharp\CSProject\CSProject\obj\Debug\CSProject.exe
+E:\Projects\C Sharp\CSProject\CSProject\obj\Debug\CSProject.pdb

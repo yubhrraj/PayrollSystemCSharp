@@ -1,0 +1,11 @@
+PAY SLIP FOR DEC 2019
+===============================
+Name of Staff: Carol
+Hours Worked:12
+
+Basic Pay:₹ 360.00
+Overtime: ₹ 0.00
+
+===============================
+Total pay: ₹ 360.00
+===============================
